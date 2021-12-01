@@ -1,0 +1,1 @@
+This repository consists of Age and Gender detection model which uses convolutional nueral network to achheive 55% accuracy on Age and 87% accuracy on Gender prediction from images.
